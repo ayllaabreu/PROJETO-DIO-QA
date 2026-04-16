@@ -1,12 +1,12 @@
 # 🚀 Projeto de Testes Manuais: SwagLabs (SauceDemo)
 
 ### 📋 Sobre o Projeto
-Este repositório contém a documentação de testes funcionais para a loja virtual **SwagLabs**, desenvolvida como parte do desafio de projeto da **DIO (Digital Innovation One)**. O objetivo foi aplicar na prática as atividades do dia a dia de um QA em um ambiente ágil.
+Este repositório contém a documentação de testes funcionais para a loja virtual **SwagLabs**, desenvolvida como parte do desafio de projeto do bootcamp Quality Assurance para Mulheres da **DIO**. O objetivo foi aplicar na prática as atividades do dia a dia de um QA em um ambiente ágil.
 
 ### 🛠️ Ferramentas Utilizadas
 * **Jira Software:** Gerenciamento do backlog e das User Stories.
 * **Xray:** Gestão de casos de teste (Step-by-Step e BDD).
-* **MindMup / Miro:** Criação de Mapas Mentais para levantamento de cenários.
+* **Xmind** Criação do mapa mental para levantamento de cenários.
 
 ### 📂 Documentação do Projeto
 Para garantir a qualidade deste projeto, estruturei o planeamento e a execução em quatro etapas principais:
