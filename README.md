@@ -29,4 +29,4 @@ Atualmente estou realizando uma **transição de carreira da área administrativ
 Este projeto é um marco importante nos meus estudos de QA, onde busco unir minha experiência em análise de processos 
 com as melhores práticas de teste de software para entregar produtos de alta qualidade.
 
-📫 **Contato:** [Seu Nome ou Link do LinkedIn aqui]
+📫 **Contato:** (https://www.linkedin.com/in/aylla/)
