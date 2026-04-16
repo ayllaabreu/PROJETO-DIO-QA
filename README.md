@@ -9,12 +9,12 @@ Este repositório contém a documentação de testes funcionais para a loja virt
 * **MindMup / Miro:** Criação de Mapas Mentais para levantamento de cenários.
 
 ### 📂 Documentação do Projeto
-Clique nos links para conferir o detalhamento de cada etapa:
+Para garantir a qualidade deste projeto, estruturei o planeamento e a execução em quatro etapas principais:
 
-* [📄 1. Fluxo de Trabalho](./1.%20FLUXO%20DE%20TRABALHO.pdf): Mapeamento das cerimônias do Scrum e a atuação do QA em cada etapa do processo ágil.
-* [📄 2. Ciclo de Vida do Bug](./2.%20CICLO%20DE%20VIDA%20DO%20BUG.pdf): Definição dos estados de um defeito, desde a identificação (New) até o encerramento (Closed).
-* [📄 3. User Stories + Mapa Mental](./3.%20USER%20STORIES%20+%20MIND%20MAP.pdf): Requisitos detalhados e visão visual dos cenários de teste do checkout.
-* [📄 4. Casos de Teste (Manual e BDD)](./4.%20CASOS%20DE%20TESTE.pdf): Roteiros de teste detalhados e escrita em Gherkin documentados no Jira/Xray.
+* [📄 1. Fluxo de Trabalho](./1.%20FLUXO%20DE%20TRABALHO.pdf): Mapeamento da atuação do QA nas cerimónias do Scrum para garantir a qualidade desde o início do ciclo.
+* [📄 2. Ciclo de Vida do Bug](./2.%20CICLO%20DE%20VIDA%20DO%20BUG.pdf): Definição do processo de tratamento de falhas, garantindo que cada erro seja corrigido e validado antes do fecho.
+* [📄 3. User Stories + Mapa Mental](./3.%20USER%20STORIES%20+%20MIND%20MAP.pdf): Tradução de requisitos em cenários de teste + mapa mental para visualizar os caminhos possíveis do checkout.
+* [📄 4. Casos de Teste (Manual e BDD)](./4.%20CASOS%20DE%20TESTE.pdf): Documentação técnica onde mostro a estrutura dos testes passo a passo e a aplicação de BDD (Gherkin).
 
 ### ⚙️ Metodologia Aplicada
 Durante o desenvolvimento, segui as seguintes etapas:
