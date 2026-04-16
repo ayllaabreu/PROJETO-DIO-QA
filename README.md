@@ -8,13 +8,13 @@ Este repositório contém a documentação de testes funcionais para a loja virt
 * **Xray:** Gestão de casos de teste (Step-by-Step e BDD).
 * **MindMup / Miro:** Criação de Mapas Mentais para levantamento de cenários.
 
-### 📂 Documentação Disponível (PDFs)
-Neste repositório, você encontrará os seguintes documentos detalhados:
+### 📂 Documentação Detalhada
+Clique nos links abaixo para visualizar cada etapa do planejamento e execução dos testes:
 
-* **User Stories:** Documentação das histórias de usuário (Login e Checkout) com foco em valor de negócio e critérios de aceite.
-* **Mapa Mental:** Planejamento visual dos fluxos de teste.
-* **Casos de Teste (Manual):** Escrita detalhada utilizando a técnica Step-by-Step.
-* **Casos de Teste (BDD):** Escrita baseada em comportamento utilizando a sintaxe Gherkin (Dado, Quando, Então).
+* [📄 Fluxo de Trabalho](./1.%20FLUXO%20DE%20TRABALHO.pdf)
+* [📄 Ciclo de Vida do Bug](./2.%20CICLO%20DE%20VIDA%20DO%20BUG.pdf)
+* [📄 User Stories + Mapa Mental](./3.%20USER%20STORIES%20+%20MIND%20MAP.pdf)
+* [📄 Casos de Teste (Manual e BDD)](./4.%20CASOS%20DE%20TESTE.pdf)
 
 ### ⚙️ Metodologia Aplicada
 Durante o desenvolvimento, segui as seguintes etapas:
