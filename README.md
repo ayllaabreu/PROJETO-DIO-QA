@@ -5,7 +5,7 @@ Este repositório contém a documentação de testes funcionais para a loja virt
 
 ### 🛠️ Ferramentas Utilizadas
 * **Jira Software:** Gerenciamento do backlog e das User Stories.
-* **Xray:** Gestão de casos de teste (Step-by-Step e BDD).
+* **Xray:** Gestão de casos de teste.
 * **Xmind** Criação do mapa mental para levantamento de cenários.
 
 ### 📂 Documentação do Projeto
