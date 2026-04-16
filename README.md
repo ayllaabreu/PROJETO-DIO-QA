@@ -25,7 +25,7 @@ Durante o desenvolvimento, segui as seguintes etapas:
 ---
 
 ### 👩‍💻 Sobre a Autora
-Atualmente estou realizando uma **transição de carreira da área administrativa (Compras Hospitalares) para a área técnica (TI)**. 
+Atualmente estou realizando uma **transição de carreira da área de compras hospitalares para a área de TI**. 
 Este projeto é um marco importante nos meus estudos de QA, onde busco unir minha experiência em análise de processos 
 com as melhores práticas de teste de software para entregar produtos de alta qualidade.
 
